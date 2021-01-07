@@ -1,0 +1,9 @@
+name: Fireball
+version: 0.1
+main: me.fireball.Main
+api-version: 1.16
+author: TheSalt_
+description: fireball Plugin
+commands:
+  fireball:
+    description: FireBall Plugin
